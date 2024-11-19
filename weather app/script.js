@@ -1,6 +1,6 @@
-//const apikey="72f726ed735cf13c2db5a61c04972d48";
-const apiURL ="https://api.openweathermap.org/data/2.5/weather?appid=72f726ed735cf13c2db5a61c04972d48&units=metric&q=";
-//const apiURL= "https://api.openweathermap.org/data/2.5/weather?q=berlin&appid=72f726ed735cf13c2db5a61c04972d48";
+
+const apiURL ="https://api.openweathermap.org/data/2.5/weather?appid=<insert api id>";
+
 
 const input = document.querySelector(".input");
 const btn = document.querySelector(".btn")
